@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarshnaDrisha
 - 👀 I’m interested in Mathematics & AI.
-- 🌱 I’m currently learning Deep Learning, Computer Vision and improving my C++ and DSA skills
+- 🌱 I’m currently learning Deep Learning, Natural Language Processing, Computer Vision and improving my C++ and DSA skills
 - 💞️ I’m looking to collaborate on real-world AI projects, especially those involving **object detection, tracking, and data-driven insights**.
 - 📫 How to reach me: konwardarshna@gmail.com
 - 😄 Pronouns: She/Her
